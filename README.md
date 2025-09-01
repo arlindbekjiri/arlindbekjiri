@@ -59,7 +59,7 @@ I enjoy building meaningful tools that are easy to use, efficient, and solve rea
 
 ## 📫 Let's Connect
 
-- [LinkedIn](https://linkedin.com/in/arlindbekjiri)
+- [LinkedIn](https://linkedin.com/in/arlind-bekjiri)
 - [Portfolio](https://arlind-bekjiri.com)
 
 ---
