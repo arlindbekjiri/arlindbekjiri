@@ -32,10 +32,6 @@ I enjoy building meaningful tools that are easy to use, efficient, and solve rea
 <p><img src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
 <img src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" /></p>
 
-### 🎨 Design
-<p><img src="https://img.shields.io/badge/-Adobe_XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white" />
-<img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" /></p>
-
 ---
 
 ## 🚧 Current project: **NetGrade**
